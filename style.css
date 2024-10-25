@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+body {
+min-width: 0px;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+}
+.menu {
+    list-style: none;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    display: flex;
+    background-color: #FF9100;
+    font-size: small;
+    margin-top: -4px;
+}
+#dong1 {
+    background-color: #8A0632;
+}
+body table {
+    margin-top: -13px;
+}
+.menu li {
+    margin: 0 ;
+text-align: left;
+}
+#dong1 td img {
+
+
+
+
+}
+#dong1 .giua {
+    text-align: center;
+}
+
+
+
+
+.menu li a {
+    display: block;
+    padding: 14px 5px;
+    color: white;
+    text-decoration: none;
+}
+#dong1 #phai {
+    background-color: #670022;
+    width: 577px;
+    background-image: url(M%E1%BB%B9%20ph%E1%BA%A9m/images/template_07.gif);
+}
+#dong1 .btn  {
+    background-image: url(M%E1%BB%B9%20ph%E1%BA%A9m/images/nut_tim_kiem.gif);
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#dong1 p {
+    width: 106px;
+    height: 2px;
+    color: #FFFFFF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: small;
+}
